@@ -97,9 +97,11 @@ const RegistrationForm1 = () => {
         </div>
 
         <div className="bg-violet-500 rounded-l-[120px] text-center ">
-<h1 className="mt-40 text-3xl text-white font-bold">Welcome Back!</h1>
-<p className="text-white mt-3 mb-3">Already have Account</p>
-<button className="border-2 border-white px-8 py-1 text-white rounded">Login</button>
+          <h1 className="mt-40 text-3xl text-white font-bold">Welcome Back!</h1>
+          <p className="text-white mt-3 mb-3">Already have Account</p>
+          <button className="border-2 border-white px-8 py-1 text-white rounded">
+            Login
+          </button>
         </div>
       </div>
     </div>
