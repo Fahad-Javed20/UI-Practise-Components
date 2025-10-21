@@ -1,7 +1,7 @@
 const RegistrationForm1 = () => {
   return (
-    <div className="flex justify-center">
-      <div className="bg-white w-9/12 h-10/12 grid grid-cols-2 ">
+    <div className="flex justify-center ">
+      <div className="bg-white w-9/12 h-10/12 grid grid-cols-2 mb-10">
         <div className="bg-white text-center rounded-tl-2xl rounded-bl-2xl">
           <h1 className="pt-7 font-bold text-2xl">Registration</h1>
           <div>
@@ -59,10 +59,10 @@ const RegistrationForm1 = () => {
               </svg>
             </span>
           </div>
-          <button className="mt-7 bg-violet-500 px-3 py-1 w-2/3 rounded">
+          <button className="mt-7 bg-violet-500 px-3 py-1 w-2/3 rounded text-white">
             Register
           </button>
-          <p className="mt-2">Or register with Social platforms</p>
+          <p className="mt-2">or register with social platforms</p>
 
           <div className="flex justify-center gap-4 mb-20 mt-5">
             <svg
