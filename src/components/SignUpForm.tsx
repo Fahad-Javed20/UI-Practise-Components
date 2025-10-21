@@ -49,7 +49,7 @@ const SignUpForm = () => {
     Create New Account
   </button>
   <p className="mt-4">By joining you agree our terms of Service and Privacy</p>
-  <p className="mb-8">Policy</p>
+  <p className="mb-10">Policy</p>
 </div>
 
 
