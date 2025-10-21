@@ -4,7 +4,7 @@ const SignUpForm = () => {
 
 
 
-      <div className="bg-white shadow-lg w-1/2 px-20 box-border mt-10">
+      <div className="bg-white shadow-lg w-1/2 px-20 box-border">
         <h1 className="text-2xl font-bold pt-5">Join the Community</h1>
         <p className="font-semibold mt-3 space-x-2">
           Take your beautiful art to the next level.Get it sceen by 
