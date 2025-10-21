@@ -4,12 +4,12 @@ const SignUpForm = () => {
 
 
 
-      <div className="bg-white shadow-lg w-4/8 px-20 box-border mt-10">
-        <h1 className="text-2xl font-bold pt-5 w-full">Join the Community</h1>
-        <p className="font-semibold mt-3 space-x-2 w-full">
+      <div className="bg-white shadow-lg w-1/2 px-20 box-border mt-10">
+        <h1 className="text-2xl font-bold pt-5">Join the Community</h1>
+        <p className="font-semibold mt-3 space-x-2">
           Take your beautiful art to the next level.Get it sceen by 
         </p>
-        <p className="font-semibold w-full">Millions of People</p>
+        <p className="font-semibold">Millions of People</p>
         <div className="flex flex-col items-center">
   <button className="bg-blue-700 text-white w-4/5 px-2 rounded py-2 mt-3">
     Join with Facebook
